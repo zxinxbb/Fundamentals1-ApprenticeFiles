@@ -2,6 +2,8 @@
 // `node cards/cards.js` from the command line positioned at
 // the project's root directory.
 
+// October 2024
+
 class Cards {
   getCards() {
     const result = []
